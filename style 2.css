@@ -1,0 +1,8 @@
+html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: #101f2a; }
+body { display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif; }
+.header, .footer { display: none; }
+#GameDiv { position: relative; width: 100vw; height: 100vh; margin: 0; }
+#Cocos3dGameContainer { outline: none; }
+#GameCanvas { width: 100%; height: 100%; outline: none; }
+canvas { display: block; touch-action: none; }
+* { user-select: none; -webkit-user-select: none; -webkit-tap-highlight-color: transparent; }

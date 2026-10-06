@@ -1,0 +1,75 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "03f4eda5f",
+        "4f7bad84-8632-4080-a2b8-7670110f3d6f",
+        "4f7bad84-8632-4080-a2b8-7670110f3d6f@6c48a",
+        "6a9aa018-6669-456f-8692-1ffb8bbcd4a3",
+        "6a9aa018-6669-456f-8692-1ffb8bbcd4a3@6c48a",
+        "7e037345-e15d-4819-821b-32ee93298b0e",
+        "c3c73926-7ae7-441f-be5d-e97c599f401a",
+        "d3f33261-5cb0-4c60-a5ce-1af4def6a711",
+        "e9be51f0-3afe-4a4f-bacb-238af3b8ed63"
+    ],
+    "paths": {
+        "e9be51f0-3afe-4a4f-bacb-238af3b8ed63": [
+            "audio/bonus",
+            "cc.AudioClip",
+            1
+        ],
+        "c3c73926-7ae7-441f-be5d-e97c599f401a": [
+            "audio/button",
+            "cc.AudioClip",
+            1
+        ],
+        "7e037345-e15d-4819-821b-32ee93298b0e": [
+            "audio/hit",
+            "cc.AudioClip",
+            1
+        ],
+        "d3f33261-5cb0-4c60-a5ce-1af4def6a711": [
+            "audio/out",
+            "cc.AudioClip",
+            1
+        ],
+        "4f7bad84-8632-4080-a2b8-7670110f3d6f": [
+            "players/batsman",
+            "cc.ImageAsset",
+            1
+        ],
+        "4f7bad84-8632-4080-a2b8-7670110f3d6f@6c48a": [
+            "players/batsman/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6a9aa018-6669-456f-8692-1ffb8bbcd4a3": [
+            "players/bowler",
+            "cc.ImageAsset",
+            1
+        ],
+        "6a9aa018-6669-456f-8692-1ffb8bbcd4a3@6c48a": [
+            "players/bowler/texture",
+            "cc.Texture2D",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "03f4eda5f": [
+            "4f7bad84-8632-4080-a2b8-7670110f3d6f@6c48a",
+            "6a9aa018-6669-456f-8692-1ffb8bbcd4a3@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
